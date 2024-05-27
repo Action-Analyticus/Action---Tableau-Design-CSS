@@ -1178,6 +1178,7 @@ body {
   box-shadow: 0 3rem 3rem -3rem rgba(0, 0, 0, 0.15) !important;
 }
 
+/* ▾▾ begin cross-functional overlap with customer tableau design system ▾▾ */
 .bg-wrapper-dark {
   background-color: rgb(10 16 68);
 }
@@ -1188,7 +1189,7 @@ body {
 
 .bg-container-dark,
 .bg-container-light {
-  box-shadow: 0 4px 6px -1px rgb(82 86 118 / 0.1), 0 2px 4px -2px rgb(82 86 118 / 0.1);
+  box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(82 86 118 / 0.1);
   border-radius: 8px;
 }
 
@@ -1199,6 +1200,21 @@ body {
 .bg-container-light {
   background-color: rgb(244 251 255);
 }
+/* ▴▴ end cross-functional overlap with customer tableau design system ▴▴ */
+/* ▾▾ begin customization for Action Tableau Design System ▾▾ */
+.bg-base-dark {
+  background-color: rgb(10 16 68);
+}
+
+.bg-base-prince {
+  background-color: rgb(82 86 118);
+}
+
+.bg-base-light {
+  background-color: rgb(216 233 244);
+}
+
+/* ▴▴ end customization for Action Tableau Design System ▴▴ */
 
 .shadow-sm {
   box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
