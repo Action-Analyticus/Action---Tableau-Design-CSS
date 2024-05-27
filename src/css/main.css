@@ -1206,12 +1206,31 @@ body {
   background-color: rgb(10 16 68);
 }
 
-.bg-base-prince {
+.bg-base-king-violet {
+  background-color: rgb(34 40 86);
+}
+.bg-base-king-violet1 {
+  background-color: rgb(210 212 221);
+}
+
+.bg-base-prince-violet {
   background-color: rgb(82 86 118);
 }
 
 .bg-base-light {
   background-color: rgb(216 233 244);
+}
+
+.bg-base-background {
+  background-color: rgb(244 251 255);
+}
+
+.bg-base-cool-grey1 {
+  background-color: rgb(227 239 246);
+}
+
+.bg-base-blue-ice1 {
+  background-color: rgb(228 249 253);
 }
 
 /* ▴▴ end customization for Action Tableau Design System ▴▴ */
